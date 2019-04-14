@@ -1,0 +1,11 @@
+/.vs/
+/Bin/
+/Bin-int/
+/packages/
+/ChernoOpenGl/Dependencies
+/ChernoOpenGl/packages.config
+*.opendb
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
